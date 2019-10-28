@@ -17,5 +17,5 @@ steps:
 
 - script: |
     npm install
-    npm run build
+    echo "npm install done!"
   displayName: 'npm install and build'
